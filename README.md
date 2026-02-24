@@ -1,1 +1,1 @@
-<a href="/BasicWebDev/assignment1.html">Insane News Story</a>
+<a href="BasicWebDev/assignment1.html">Insane News Story</a>

@@ -1,1 +1,1 @@
-# winterfly212-code.github.io
+<a href="assignment1.html">Insane News Story</a>

@@ -2,3 +2,4 @@
 <P> Victim Brutally Attacked, and new oil revalations come to light! Click <a href="assets/docs/article.pdf">here</a> for the pdf, or above for the link. </p>
 <h1> Local Weather </h1>
 <a href="https://www.woodtv.com" target="_blank">West Michigan Weather</a>
+<h1> Image Gallery </h1> <a herf="Image_Gallery.html">Large Cats</a>

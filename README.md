@@ -6,7 +6,7 @@
 
 
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>my table!!</title>
